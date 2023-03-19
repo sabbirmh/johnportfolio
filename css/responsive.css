@@ -1,0 +1,1025 @@
+@media (min-width: 1400px) {}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+
+/* == ==== Large 992 Size Start ==== == */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ==== Introduce part Start ==== */
+
+    .container .introduce_left h1 {
+        font-size: 60px;
+    }
+
+    .container .introduce_left h3 {
+        font-size: 24px;
+    }
+
+    .container .introduce_left {
+        margin-top: 32%;
+    }
+
+    /* ==== Introduce part End ==== */
+
+    /* ==== Introduce part Start ==== */
+    /* ==== Introduce part End ==== */
+
+    /* ==== Introduce part Start ==== */
+    /* ==== Introduce part End ==== */
+
+    /* ==== Introduce part Start ==== */
+    /* ==== Introduce part End ==== */
+
+    /* ==== Introduce part Start ==== */
+    /* ==== Introduce part End ==== */
+
+}
+
+/* == ==== lagre 992 End ==== == */
+
+/* == ==== Medioum Size Start ==== == */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ==== Menu part Start ==== */
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .navbar-toggler {
+        color: #fff;
+    }
+
+    .menu_main #navbarSupportedContent {
+        text-align: center;
+    }
+
+    .menu_main {
+        top: 10px;
+        background: linear-gradient(145deg, #1e2024, #23272b);
+        box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+    }
+
+    /* ==== Menu part End ==== */
+
+    /* ==== Introduce part Start ==== */
+
+    .container .introduce_left {
+        margin-top: 75px;
+
+    }
+
+    .container .introduce_left h1 {
+        font-size: 40px;
+        letter-spacing: 1px;
+        margin-top: 22px;
+    }
+
+    .container .introduce_left h3 {
+        font-size: 19px;
+        margin-top: 23px;
+    }
+
+    .container .introduce_left p {
+        font-size: 14px;
+    }
+
+
+    .introduce_right .profile_picture {
+        width: 350px;
+    }
+
+    .introduce_right .profile_picture img {
+        height: 360px;
+    }
+
+    .introduce_right .back_shape {
+        width: 298px;
+    }
+
+    .introduce_right .back_shape img {
+        top: -330px;
+    }
+
+    .social {
+        margin-top: -25px;
+    }
+
+    /* ==== Introduce part End ==== */
+
+    /* ==== Quality part Start ==== */
+    .quality p {
+        font-size: 14px;
+    }
+
+    #work_quality {
+        padding: 10px 0 60px;
+    }
+
+    /* ==== Quality part End ==== */
+
+    /* ==== About part Start ==== */
+
+    .about_info h2 {
+        font-size: 35px;
+    }
+
+    .about_image img {
+        border-bottom-left-radius: 115px;
+        border-top-right-radius: 115px;
+    }
+
+    #about_part {
+        padding: 0px 0 60px;
+    }
+
+    /* ==== About part End ==== */
+
+
+    /* ==== Service part Start ==== */
+
+    /* == Card One == */
+    .container .card .content a {
+        margin-top: 23px;
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .container .card .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .container .card .content h2 {
+        font-size: 16px;
+    }
+
+    .container .card .icon i {
+        font-size: 35px;
+    }
+
+    /* == Card Two == */
+    .container .card_two .content a {
+        margin-top: 23px;
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .container .card_two .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .container .card_two .content h2 {
+        font-size: 16px;
+    }
+
+    .container .card_two .icon i {
+        font-size: 35px;
+    }
+
+    /* == Card Three == */
+    .container .card_three .content a {
+        margin-top: 23px;
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .container .card_three .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .container .card_three .content h2 {
+        font-size: 16px;
+    }
+
+    .container .card_three .icon i {
+        font-size: 35px;
+    }
+
+    /* == Card Four == */
+    .container .card_four .content a {
+        margin-top: 23px;
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .container .card_four .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .container .card_four .content h2 {
+        font-size: 16px;
+    }
+
+    .container .card_four .icon i {
+        font-size: 35px;
+    }
+
+    /* == Card Five == */
+    .container .card_five .content a {
+        margin-top: 23px;
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .container .card_five .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .container .card_five .content h2 {
+        font-size: 16px;
+    }
+
+    .container .card_five .icon i {
+        font-size: 35px;
+    }
+
+    /* == Card Six == */
+    .container .card_six .content a {
+        margin-top: 23px;
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .container .card_six .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .container .card_six .content h2 {
+        font-size: 16px;
+    }
+
+    .container .card_six .icon i {
+        font-size: 35px;
+    }
+
+    /* ==== Service part End ==== */
+
+
+
+    /* ==== Skills part Start ==== */
+
+    .container .skill_text h2 {
+        font-size: 17px;
+        line-height: 35px;
+    }
+
+    .container .skill_part .progress {
+        margin-top: 20px;
+        width: 199px;
+    }
+
+    .container .skill_part_two .progress {
+        width: 199px;
+    }
+
+    .container .skill_part_three .progress {
+        width: 199px;
+    }
+
+    .container .skill_part_four .progress {
+        width: 199px;
+    }
+
+    .container .all_skills {
+        margin-top: 32px;
+    }
+
+    .container .skill_image img {
+        height: 330px;
+        border-top-left-radius: 100px;
+        border-bottom-right-radius: 100px;
+    }
+
+    #skills {
+        padding: 0px 0 60px;
+    }
+
+    /* ==== Skills part End ==== */
+
+    /* ==== Portfolio part Start ==== */
+
+
+    .container .portfolio_menu ul li {
+        margin-bottom: -21px;
+    }
+
+    figure.portfolio_image h3 {
+        font-size: 16px;
+    }
+
+    /* ==== Blog part Start ==== */
+
+    .container .blog_info .content .detailes a {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    .container .blog_head h2 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    /* ==== Blog part End ==== */
+
+    /* ==== Portfolio part End ==== */
+
+    /* ==== Contact part Start ==== */
+
+    .container .contact_cart {
+        width: 295px;
+        height: 455px;
+    }
+
+    .container .contact_cart h2 {
+        font-size: 26px;
+    }
+
+    .container .contact_cart p {
+        font-size: 13px;
+        line-height: 30px;
+    }
+
+    .container .contact_cart .contact_social ul li {
+        margin: 0 1px;
+    }
+
+    .container .contact_form h3 {
+        font-size: 28px;
+    }
+
+    .container .contact_form .all_send_point {
+        margin-top: 25px;
+    }
+
+    #contact {
+        padding-bottom: 25px;
+    }
+
+    /* ==== Contact part End ==== */
+
+    /* ==== Testimonial part Start ==== */
+    /* ==== Testimonial part End ==== */
+
+
+
+}
+
+/* == ==== Medioum Size Start End ==== == */
+
+
+
+/* == ==== Small Size 576 Start ==== == */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ==== Menu part Start ==== */
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .navbar-toggler {
+        color: #fff;
+    }
+
+    .menu_main #navbarSupportedContent {
+        text-align: center;
+    }
+
+    .menu_main {
+        top: 0px;
+        background: linear-gradient(145deg, #1e2024, #23272b);
+        box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+    }
+
+    /* ==== Menu part End ==== */
+
+
+    /* ==== Introduce part Start ==== */
+
+    .container .introduce_left {
+        margin-top: 60px;
+
+    }
+
+    .container .introduce_left h1 {
+        font-size: 34px;
+        letter-spacing: 1px;
+        margin-top: 22px;
+    }
+
+    .container .introduce_left h3 {
+        font-size: 19px;
+        margin-top: 23px;
+    }
+
+    .container .introduce_left p {
+        font-size: 14px;
+    }
+
+    .social ul li a {
+        padding: 13px 18px;
+    }
+
+    .social ul li a i {
+        font-size: 15px;
+    }
+
+    .social ul li {
+        margin: 0 10px;
+    }
+
+    .introduce_right .profile_picture {
+        width: 308px;
+    }
+
+    .introduce_right .profile_picture img {
+        height: 360px;
+    }
+
+    .introduce_right .back_shape {
+        width: 298px;
+    }
+
+    .introduce_right .back_shape img {
+        top: -330px;
+    }
+
+    .social {
+        margin-top: -25px;
+    }
+
+    #introduce_part {
+        padding: 0 0 50px;
+    }
+
+    /* ==== Introduce part End ==== */
+
+    /* ==== Quality part Start ==== */
+
+    .quality {
+        margin: 15px 0;
+    }
+
+    .quality p {
+        font-size: 14px;
+    }
+
+    #work_quality {
+        padding: 10px 0 50px;
+    }
+
+    /* ==== Quality part End ==== */
+
+
+
+    /* ==== About part Start ==== */
+    .about_info h3 {
+        font-size: 14px;
+    }
+
+    .about_info h2 {
+        font-size: 25px;
+    }
+
+    .about_info p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .about_image img {
+        border-bottom-left-radius: 100px;
+        border-top-right-radius: 100px;
+        height: 358px;
+    }
+
+    #about_part {
+        padding: 0px 0 60px;
+    }
+
+    /* ==== About part End ==== */
+
+
+    /* ==== Service part Start ==== */
+
+    .container .card_two {
+        margin: 1px 0;
+        height: 370px;
+    }
+
+    .container .card {
+        margin: -2px 0;
+        height: 370px;
+    }
+
+    .container .service_head h2 {
+        font-size: 26px;
+    }
+
+    .card_content {
+        margin-top: 40px;
+    }
+
+    .container .card_three {
+        height: 370px;
+    }
+
+    .container .card_four {
+        height: 370px;
+    }
+
+    .container .card_five {
+        height: 370px;
+    }
+
+    .container .card_six {
+        height: 370px;
+    }
+
+    /* ==== Service part End ==== */
+
+    /* ==== Skills part Start ==== */
+
+
+
+    .container .skill_text h2 {
+        font-size: 17px;
+        line-height: 35px;
+    }
+
+    .container .skill_part .progress {
+        margin-top: 20px;
+        width: 199px;
+    }
+
+    .container .skill_part_two .progress {
+        width: 199px;
+    }
+
+    .container .skill_part_three .progress {
+        width: 199px;
+    }
+
+    .container .skill_part_four .progress {
+        width: 199px;
+    }
+
+    .container .all_skills {
+        margin-top: 32px;
+    }
+
+    .container .skill_image img {
+        height: 330px;
+        border-top-left-radius: 100px;
+        border-bottom-right-radius: 100px;
+    }
+
+    #skills {
+        padding: 0px 0 60px;
+    }
+
+    /* ==== Skills part End ==== */
+
+    /* ==== Portfolio part Start ==== */
+
+    .img {
+        width: 47%;
+        padding-left: 25px;
+    }
+
+    .container .portfolio_head h2 {
+        font-size: 31px;
+        letter-spacing: 2px;
+    }
+
+    .container .portfolio_menu ul li {
+        margin-bottom: -21px;
+    }
+
+    figure.portfolio_image h3 {
+        font-size: 16px;
+    }
+
+    /* ==== Portfolio part End ==== */
+
+    /* ==== Blog part Start ==== */
+
+    .container .blog_info .content .detailes a {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    .container .blog_head h2 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    /* ==== Blog part End ==== */
+
+    /* ==== Contact part Start ==== */
+    .container .contact_form h3 {
+        font-size: 28px;
+    }
+
+    .container .contact_cart h2 {
+        font-size: 35px;
+    }
+
+    #contact {
+        padding-bottom: 25px;
+    }
+
+    /* ==== Contact part End ==== */
+
+    /* ==== Testimonial part Start ==== */
+    .testim .arrow.right {
+        display: none;
+    }
+
+    .testim .arrow.left {
+        display: none;
+    }
+
+    #testim {
+        padding: 20px 0 16px;
+    }
+
+    /* ==== Testimonial part End ==== */
+
+}
+
+/* == ==== Small Size 576 End ==== == */
+
+
+
+
+
+/* == ==== Small Size 575 Start ==== == */
+
+@media (max-width: 575.98px) {
+
+    /* ==== Menu part Start ==== */
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .navbar-toggler {
+        color: #fff;
+    }
+
+    .menu_main #navbarSupportedContent {
+        text-align: center;
+    }
+
+    .menu_main {
+        top: 0px;
+        background: linear-gradient(145deg, #1e2024, #23272b);
+        box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+    }
+
+    /* ==== Menu part End ==== */
+
+
+    /* ==== Introduce part Start ==== */
+
+    .container .introduce_left {
+        margin-top: 20px !important;
+        text-align: center;
+    }
+
+    .container .introduce_left h1 {
+        font-size: 35px;
+        letter-spacing: 1px;
+        margin-top: 22px;
+    }
+
+    .container .introduce_left h3 {
+        font-size: 19px;
+        margin-top: 23px;
+    }
+
+    .container .introduce_left p {
+        font-size: 14px;
+    }
+
+    .social ul li a {
+        padding: 13px 18px;
+    }
+
+    .social ul li a i {
+        font-size: 15px;
+    }
+
+    .social ul li {
+        margin: 0 10px;
+    }
+
+    .introduce_right .profile_picture {
+        width: 308px;
+    }
+
+    .introduce_right .profile_picture img {
+        height: 360px;
+    }
+
+    .introduce_right .back_shape {
+        width: 298px;
+    }
+
+    .introduce_right .back_shape img {
+        top: -330px;
+    }
+
+    .social {
+        margin-top: -25px;
+    }
+
+    #introduce_part {
+        padding: 0 0 50px;
+    }
+
+    /* ==== Introduce part End ==== */
+
+
+
+    /* ==== Quality part Start ==== */
+    .quality {
+        margin: 15px 0;
+    }
+
+    #work_quality {
+        padding: 10px 0 50px;
+    }
+
+    /* ==== Quality part End ==== */
+
+
+    /* ==== About part Start ==== */
+
+    .about_image img {
+        border-bottom-left-radius: 90px;
+        border-top-right-radius: 90px;
+        height: 295px;
+    }
+
+    .about_info {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .about_info h2 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+
+    .about_info p {
+        font-size: 14px;
+    }
+
+    #about_part {
+        padding: 0px 0 60px;
+    }
+
+    /* ==== About part End ==== */
+
+    /* ==== Service part Start ==== */
+
+    .container .card_two {
+        margin: 1px 0;
+    }
+
+    .container .card {
+        margin: -2px 0;
+    }
+
+    .container .service_head h2 {
+        font-size: 26px;
+    }
+
+    .card_content {
+        margin-top: 40px;
+    }
+
+    #service_part {
+        padding-bottom: 50px;
+    }
+
+    /* ==== Service part End ==== */
+
+    /* ==== Skills part Start ==== */
+
+    .container .skill_text {
+        text-align: center;
+    }
+
+    .container .skill_text h2 {
+        font-size: 23px;
+        line-height: 35px;
+    }
+
+    .container .skill_part .progress {
+        margin-top: 20px;
+        width: 295px;
+    }
+
+    .container .skill_part .skill_progress p {
+        text-align: center;
+    }
+
+    .container .skill_part_two .progress {
+        width: 295px;
+    }
+
+    .container .skill_part_two .skill_progress p {
+        text-align: center;
+    }
+
+    .container .skill_part_three .progress {
+        width: 295px;
+    }
+
+    .container .skill_part_three .skill_progress p {
+        text-align: center;
+    }
+
+    .container .skill_part_four .progress {
+        width: 295px;
+    }
+
+    .container .skill_part_four .skill_progress p {
+        text-align: center;
+    }
+
+    .container .all_skills {
+        margin-top: 44px;
+    }
+
+    .container .skill_image img {
+        height: 300px;
+        border-top-left-radius: 100px;
+        border-bottom-right-radius: 100px;
+        margin-top: 40px;
+    }
+
+    #skills {
+        padding: 0px 0 30px;
+    }
+
+    /* ==== Skills part End ==== */
+
+
+    /* ==== Portfolio part Start ==== */
+    .img {
+        width: 94%;
+        padding-left: 18px;
+    }
+
+    .container .portfolio_menu ul li {
+        font-size: 12px;
+        margin: 0 6px;
+    }
+
+    .container .portfolio_head h2 {
+        font-weight: 600;
+        font-size: 25px;
+        margin-top: 14px;
+        letter-spacing: 1px;
+    }
+
+    .container .portfolio_menu ul {
+        margin-top: 30px;
+    }
+
+    .container .portfolio_menu ul li {
+        margin-bottom: -21px;
+    }
+
+    #portfolio_part {
+        padding-bottom: 20px;
+    }
+
+    /* ==== Portfolio part End ==== */
+
+    /* ==== Resume part Start ==== */
+
+    .container .experience_cart .content h4 {
+        font-size: 16px;
+    }
+
+    .container .experience_cart .content_2 h4 {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+
+    .container .resume_head h2 {
+        font-size: 28px;
+        letter-spacing: 2px;
+    }
+
+    /* ==== Resume part End ==== */
+
+    /* ==== Blog part Start ==== */
+
+    .container .blog_head h2 {
+        font-size: 19px;
+        letter-spacing: 1px;
+        line-height: 35px;
+    }
+
+    .container .blog_info .content .detailes a {
+        font-size: 16px;
+    }
+
+    .container .blog_info .content .detailes a {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    /* ==== Blog part End ==== */
+
+    /* ==== Contact part Start ==== */
+
+    .container .contact_cart h2 {
+        font-size: 28px;
+    }
+
+    .container .contact_cart p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .container .contact_cart a {
+        font-size: 14px;
+    }
+
+    .container .contact_cart .contact_social ul li a {
+        padding: 12px 17px;
+    }
+
+    .container .contact_cart {
+        width: 292px;
+        height: 460px;
+    }
+
+    .container .contact_cart .contact_social ul li {
+        margin: 0 3px;
+    }
+
+    .container .contact_form .all_send_point {
+        margin-top: 15px;
+    }
+
+    .container .contact_form h3 {
+        font-size: 25px;
+    }
+
+    #contact {
+        padding-bottom: 25px;
+    }
+
+    /* ==== Contact part End ==== */
+
+    /* ==== Testimonial part Start ==== */
+
+    .testim .arrow.right {
+        display: none;
+    }
+
+    .testim .arrow.left {
+        display: none;
+    }
+
+    .testim .cont div p {
+        line-height: 20px;
+        letter-spacing: 1px;
+        font-size: 12px;
+    }
+
+    #testim {
+        padding: 20px 0 18px;
+    }
+
+    /* ==== Testimonial part End ==== */
+
+    /* ==== Introduce part Start ==== */
+    /* ==== Introduce part End ==== */
+
+    /* ==== Introduce part Start ==== */
+    /* ==== Introduce part End ==== */
+
+
+
+
+
+
+
+}
+
+/* == == == Small Size 575 End == == == */
